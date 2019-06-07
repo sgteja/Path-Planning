@@ -51,6 +51,10 @@ Run Gazebo using the command "roslaunch turtlebot_gazebo turtlebot_world.launch"
 Then we need to publish the velocities, this can be done by running the python script named "tbot_vel.py". But make sure to change the path to the "path.pkl" file. 
 "rosrun control tbot_vel.py"
 
+The Final simulation result is as follows:
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ci5iAQYvzLE/0.jpg)](https://www.youtube.com/watch?v=ci5iAQYvzLE)
+
+
 
 References
 
