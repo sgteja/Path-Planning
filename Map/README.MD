@@ -1,3 +1,12 @@
 # Making a Binary Map using half-planes and enlarging the obstacles using Minkowski-sum.
 
-The python code ```Map.py``` is used to generate the custom map. 
+The python code ```Map.py``` is used to generate the custom map. \
+Map is as shown in the figure below:
+
+![alt text](https://github.com/sgteja/Path-Planning/blob/master/Map/images/givenMap.png)
+
+Detailed explanation to each step can be found in ```Report.pdf```.
+
+To run the code with default values --> ```python Map.py```\
+To change the values use --> ```python Map.py --h```\
+For changing the map you can edit the Map.py main function accordingly.
