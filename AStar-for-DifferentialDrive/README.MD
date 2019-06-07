@@ -1,3 +1,9 @@
+# A-Star on Differential Drive
+
+The A-star code is used to generate a path for differential drive robots and this is tested on turtle-bot. To test it on a turtle-bot, I used ROS and Gazebo simulator. The videos are shown [here](https://github.com/sgteja/Path-Planning/tree/master/AStar-for-DifferentialDrive/Videos) \
+This file structure needs to be maintained to run simulation of turtle-bot in ROS.
+
+
 --> File structure
 
 	|--Project 3 
@@ -48,6 +54,6 @@ Then we need to publish the velocities, this can be done by running the python s
 
 References
 
-1.https://web2.qatar.cmu.edu/~gdicaro/16311/slides/start-with-ros.pdf
-2.http://gazebosim.org/tutorials?tut=ros_roslaunch
+1.https://web2.qatar.cmu.edu/~gdicaro/16311/slides/start-with-ros.pdf \
+2.http://gazebosim.org/tutorials?tut=ros_roslaunch \
 3.http://wiki.ros.org/turtlebot/Tutorials/indigo/Turtlebot%20Installation
